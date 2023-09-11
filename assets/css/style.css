@@ -5,6 +5,9 @@
 header {
 	padding: 2rem;
 }
+.flex {
+	display: flex;
+}
 header,
 footer {
 	background-color: beige;
